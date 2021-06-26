@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1624369408 source:c:\users\admin\desktop\school ic4u\sortingalgos\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Bubblesort.h"
+	"Insertionsort.h"
+	"Mergesort.h"
+	"Selectionsort.h"
+	"Quicksort.h"
+
+1624367706 c:\users\admin\desktop\school ic4u\sortingalgos\include\bubblesort.h
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<ctime>
+
+1624367831 source:c:\users\admin\desktop\school ic4u\sortingalgos\src\bubblesort.cpp
+	"Bubblesort.h"
+
+1624368347 source:c:\users\admin\desktop\school ic4u\sortingalgos\src\insertionsort.cpp
+	"Insertionsort.h"
+
+1624368347 c:\users\admin\desktop\school ic4u\sortingalgos\include\insertionsort.h
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<ctime>
+
+1624370360 source:c:\users\admin\desktop\school ic4u\sortingalgos\src\mergesort.cpp
+	"Mergesort.h"
+
+1624370360 c:\users\admin\desktop\school ic4u\sortingalgos\include\mergesort.h
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<ctime>
+
+1624369035 source:c:\users\admin\desktop\school ic4u\sortingalgos\src\selectionsort.cpp
+	"Selectionsort.h"
+
+1624369035 c:\users\admin\desktop\school ic4u\sortingalgos\include\selectionsort.h
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<ctime>
+
+1624370726 source:c:\users\admin\desktop\school ic4u\sortingalgos\src\quicksort.cpp
+	"Quicksort.h"
+
+1624370726 c:\users\admin\desktop\school ic4u\sortingalgos\include\quicksort.h
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<ctime>
+
